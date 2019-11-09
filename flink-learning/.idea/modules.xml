@@ -5,6 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/flink-learning.iml" filepath="$PROJECT_DIR$/flink-learning.iml" />
       <module fileurl="file://$PROJECT_DIR$/flink-learning-base/flink-learning-base.iml" filepath="$PROJECT_DIR$/flink-learning-base/flink-learning-base.iml" />
       <module fileurl="file://$PROJECT_DIR$/flink-learning-common/flink-learning-common.iml" filepath="$PROJECT_DIR$/flink-learning-common/flink-learning-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-learning-kafka2es/flink-learning-kafka2es.iml" filepath="$PROJECT_DIR$/flink-learning-kafka2es/flink-learning-kafka2es.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-learning-kafka2mysql/flink-learning-kafka2mysql.iml" filepath="$PROJECT_DIR$/flink-learning-kafka2mysql/flink-learning-kafka2mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-learning-mysql2kafka/flink-learning-mysql2kafka.iml" filepath="$PROJECT_DIR$/flink-learning-mysql2kafka/flink-learning-mysql2kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-learning-mysql2mysql/flink-learning-mysql2mysql.iml" filepath="$PROJECT_DIR$/flink-learning-mysql2mysql/flink-learning-mysql2mysql.iml" />
     </modules>
   </component>
 </project>

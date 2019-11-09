@@ -24,12 +24,20 @@
         <processorPath useClasspath="true" />
         <module name="flink-learning-base" />
         <module name="flink-learning-common" />
+        <module name="flink-learning-kafka2es" />
+        <module name="flink-learning-kafka2mysql" />
+        <module name="flink-learning-mysql2kafka" />
+        <module name="flink-learning-mysql2mysql" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="flink-learning" target="1.8" />
       <module name="flink-learning-base" target="1.8" />
       <module name="flink-learning-common" target="1.8" />
+      <module name="flink-learning-kafka2es" target="1.8" />
+      <module name="flink-learning-kafka2mysql" target="1.8" />
+      <module name="flink-learning-mysql2kafka" target="1.8" />
+      <module name="flink-learning-mysql2mysql" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
