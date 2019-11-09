@@ -28,6 +28,7 @@
         <module name="flink-learning-kafka2mysql" />
         <module name="flink-learning-mysql2kafka" />
         <module name="flink-learning-mysql2mysql" />
+        <module name="kafka-learning" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -38,6 +39,7 @@
       <module name="flink-learning-kafka2mysql" target="1.8" />
       <module name="flink-learning-mysql2kafka" target="1.8" />
       <module name="flink-learning-mysql2mysql" target="1.8" />
+      <module name="kafka-learning" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
