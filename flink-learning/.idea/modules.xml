@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/flink-learning.iml" filepath="$PROJECT_DIR$/flink-learning.iml" />
       <module fileurl="file://$PROJECT_DIR$/flink-learning-base/flink-learning-base.iml" filepath="$PROJECT_DIR$/flink-learning-base/flink-learning-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flink-learning-common/flink-learning-common.iml" filepath="$PROJECT_DIR$/flink-learning-common/flink-learning-common.iml" />
     </modules>
   </component>
 </project>

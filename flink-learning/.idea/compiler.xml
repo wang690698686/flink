@@ -23,11 +23,13 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="flink-learning-base" />
+        <module name="flink-learning-common" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="flink-learning" target="1.8" />
       <module name="flink-learning-base" target="1.8" />
+      <module name="flink-learning-common" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
