@@ -3,9 +3,8 @@ package com.mysql2mysql;
 /**
  * Created by admin on 2019/6/8.
  */
-
-import com.flink.utils.JdbcUtil;
 import entity.UserInfo;
+import com.flink.utils.JdbcUtil;
 import org.apache.flink.api.java.tuple.Tuple3;
 import org.apache.flink.configuration.Configuration;
 import org.apache.flink.streaming.api.functions.source.RichSourceFunction;
@@ -13,9 +12,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.sql.Connection;
-import java.sql.DriverManager;
 import java.sql.PreparedStatement;
-import java.sql.ResultSet;
 import java.util.List;
 
 public class JdbcReader extends RichSourceFunction<Tuple3<String,String,String>> {

@@ -15,7 +15,6 @@
         <module>flink-learning-kafka2es</module>
         <module>flink-learning-mysql2kafka</module>
         <module>flink-learning-kafka2mysql</module>
-        <module>kafka-learning</module>
     </modules>
 
     <properties>

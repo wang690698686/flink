@@ -9,7 +9,6 @@
       <module fileurl="file://$PROJECT_DIR$/flink-learning-kafka2mysql/flink-learning-kafka2mysql.iml" filepath="$PROJECT_DIR$/flink-learning-kafka2mysql/flink-learning-kafka2mysql.iml" />
       <module fileurl="file://$PROJECT_DIR$/flink-learning-mysql2kafka/flink-learning-mysql2kafka.iml" filepath="$PROJECT_DIR$/flink-learning-mysql2kafka/flink-learning-mysql2kafka.iml" />
       <module fileurl="file://$PROJECT_DIR$/flink-learning-mysql2mysql/flink-learning-mysql2mysql.iml" filepath="$PROJECT_DIR$/flink-learning-mysql2mysql/flink-learning-mysql2mysql.iml" />
-      <module fileurl="file://$PROJECT_DIR$/kafka-learning/kafka-learning.iml" filepath="$PROJECT_DIR$/kafka-learning/kafka-learning.iml" />
     </modules>
   </component>
 </project>
