@@ -33,6 +33,7 @@ public class KafkaConsumerTest implements Runnable {
         props.put("auto.commit.interval.ms", "1000");
         props.put("session.timeout.ms", "30000");
         props.put("auto.offset.reset", "earliest");
+        props.put("client.id", "1");
         props.put("key.deserializer", StringDeserializer.class.getName());
         props.put("value.deserializer", StringDeserializer.class.getName());
         this.consumer = new KafkaConsumer<String, String>(props);

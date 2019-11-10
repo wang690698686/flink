@@ -9,7 +9,6 @@ import org.apache.flink.streaming.api.windowing.time.Time;
 
 /**
  * 将数据库中的数据查询出来再写入数据库
- * https://github.com/JustPlay1994
  */
 
 public class BatchJob {
